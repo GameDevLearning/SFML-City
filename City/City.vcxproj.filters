@@ -21,12 +21,21 @@
     <ClCompile Include="game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="game_state_start.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="game.h">
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="game_state.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="game_state_start.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="game_state_editor.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
